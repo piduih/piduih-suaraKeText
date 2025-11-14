@@ -1,0 +1,7 @@
+{
+  "name": "Transkripsi Masa Nyata",
+  "description": "Aplikasi web yang mendengar pertuturan anda dan menukarnya kepada teks dalam masa nyata menggunakan Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
